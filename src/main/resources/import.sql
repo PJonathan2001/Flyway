@@ -1,0 +1,1 @@
+INSERT INTO tbl_pacientes(id,edad, estatura, fecha_ingreso, nombre, peso) VALUES (1,21,167,'2022/02/02','Jonathan',60.5)
